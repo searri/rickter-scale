@@ -1,11 +1,11 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
-<div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+<div class="portfolio-modal modal fade" id="portfolioModal-{{ forloop.index }}" tabindex="-1" role="dialog"
   aria-hidden="true">
-  <div class="modal-content">
+  <div class="modal-content" style="background-color: black;">
     <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
+      <div class="lr" style="background-color: white">
+        <div class="rl" style="background-color: white">
         </div>
       </div>
     </div>
@@ -13,30 +13,35 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>{{ post.title }}</h2>
-            <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
-            {% endif %}
-            <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+            <!-- <h2>{{ post.title }}</h2> -->
+            <img src="img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
+              style="background-color:black; height: 6em;">
+            <hr class="star-no-star-light">
+
+            <!-- <ul class="list-inline item-details"> -->
+            <ul class="item-details list-unstyled">
+              <li>Rewatchability:
+                <strong>{{ post.rewatch }}</strong>
               </li>
-              {% endif %}
-              {% if post.project-date %}
-              <li>Date:
-                <strong>{{ post.project-date }}</strong>
+              <li>Compelling Characters:
+                <strong>{{ post.characters }}</strong>
               </li>
-              {% endif %}
-              {% if post.category %}
-              <li>Service:
-                <strong>{{ post.category }}</strong>
+              <li>Supercalifragilisticexpialidociousness:
+                <strong>{{ post.super }}</strong>
               </li>
-              {% endif %}
+              <li>Pacing:
+                <strong>{{ post.pace }}</strong>
+              </li>
+              <li>Cinematography:
+                <strong>{{ post.cinema }}</strong>
+              </li>
+              <li>Infrastructure:
+                <strong>{{ post.structure }}</strong>
+              </li>
             </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+
+            <button type="button" class="btn btn-default" data-dismiss="modal"
+              style="background-color: #{{ site.color.secondary-dark }};"><i class="fa fa-times"></i>
               Close</button>
           </div>
         </div>
