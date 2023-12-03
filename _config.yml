@@ -4,6 +4,7 @@ description: "An in-depth movie scoring record by and for Rick Sear"
 keywords:
 skills: "An in-depth record of the movies I've watched"
 meta_author: searri
+baseurl: rickter-scale
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
