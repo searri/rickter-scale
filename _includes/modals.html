@@ -13,12 +13,38 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <img src="img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
-              style="background-color:black; height: 6em;">
+            {% assign has_title_img = false %}
+            {% for f in site.static_files %}
+              {% if post.thumbnail-img == f.name %}
+                {% assign has_title_img = true %}
+              {% endif %}
+            {% endfor %}
+            
+            {% if has_title_img %}
+            <img src="{{ site.url }}/img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
+              style="background-color:black; width: 35em;">
+            {% else %}
+            <span style="font-size: 3em; color: white;">{{ post.title }}</span>
+            {% endif %}
+            
             {% if post.subhead %}
             <h1 style="color: white;">{{ post.subhead }}</h1>
             {% endif %}
+            
             <hr class="star-no-star-light">
+
+            {% if post.old %}
+
+            <div>
+              <span class="material-symbols-outlined {% if post.rating == 'bad' %}highlight{% endif %}" style="font-size: 6em;">thumb_down</span>
+              <span class="material-symbols-outlined {% if post.rating == 'fine' %}highlight{% endif %}" style="font-size: 6em;">sentiment_neutral</span>
+              <span class="material-symbols-outlined {% if post.rating == 'good' %}highlight{% endif %}" style="font-size: 6em;">thumb_up</span>
+            </div>
+
+            <br>
+            <br>
+            
+            {% else %}
             
             <h4>Completed {{ post.date | date: "%B %d, %Y" }}</h4>
 
@@ -42,6 +68,8 @@
                 <strong>{{ post.structure }}</strong>
               </li>
             </ul>
+
+            {% endif %}
 
             <button type="button" class="btn btn-default" data-dismiss="modal"
               style="background-color: #{{ site.color.secondary-dark }};"><i class="fa fa-times"></i>

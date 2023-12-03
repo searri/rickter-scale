@@ -1,9 +1,11 @@
 ---
 layout: default
-date: 2023-12-02
+alt: 'True Detective S3 stylized movie heading'
 img: true-detective-s3.jpg
-alt: True Detective S3 movie poster
 thumbnail-img: true-detective-s3-small.png
+date: 2023-12-02
+title: 'True Detective S3'
+old: false
 rewatch: 3
 characters: 4
 super: 2

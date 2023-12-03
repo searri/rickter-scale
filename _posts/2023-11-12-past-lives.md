@@ -1,9 +1,11 @@
 ---
 layout: default
-date: 2023-11-12
+alt: 'Past Lives stylized movie heading'
 img: past-lives.jpg
-alt: Past Lives movie poster
 thumbnail-img: past-lives-small.png
+date: 2023-11-12
+title: 'Past Lives'
+old: false
 rewatch: 2
 characters: 5
 super: 1

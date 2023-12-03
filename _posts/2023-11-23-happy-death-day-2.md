@@ -1,9 +1,11 @@
 ---
 layout: default
-date: 2023-11-23
+alt: 'Happy Death Day 2U stylized movie heading'
 img: happy-death-day-2.jpg
-alt: Happy Death Day 2U movie poster
 thumbnail-img: happy-death-day-2-small.png
+date: 2023-11-23
+title: 'Happy Death Day 2U'
+old: false
 rewatch: 0
 characters: 2
 super: 3

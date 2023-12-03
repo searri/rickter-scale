@@ -1,9 +1,11 @@
 ---
 layout: default
-date: 2023-11-20
+alt: 'Perfect Blue stylized movie heading'
 img: perfect-blue.jpg
-alt: Perfect Blue movie poster
 thumbnail-img: perfect-blue-small.png
+date: 2023-11-20
+title: 'Perfect Blue'
+old: false
 rewatch: 5
 characters: 4
 super: 2

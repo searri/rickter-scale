@@ -1,9 +1,11 @@
 ---
 layout: default
-date: 2023-11-23
+alt: 'Happy Death Day stylized movie heading'
 img: happy-death-day-1.jpg
-alt: Happy Death Day movie poster
 thumbnail-img: happy-death-day-1-small.png
+date: 2023-11-23
+title: 'Happy Death Day'
+old: false
 rewatch: 0
 characters: 3
 super: 2
