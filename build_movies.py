@@ -24,7 +24,7 @@ for i, item in enumerate(movies_sorted):
         outfile.write("---\nlayout: default\n")
         outfile.write("date: " + item["watched"] + "\n")
         outfile.write("img: " + item["short_title"] + ".jpg\n")
-        outfile.write("alt: " + item["title"] + " movie poster\n")
+        outfile.write("alt: " + item["title"] + " stylized movie heading\n")
         outfile.write("thumbnail-img: " + item["short_title"] + "-small.png\n")
         outfile.write("rewatch: " + str(item["rewatch"]) + "\n")
         outfile.write("characters: " + str(item["characters"]) + "\n")
@@ -33,4 +33,6 @@ for i, item in enumerate(movies_sorted):
         outfile.write("cinema: " + str(item["cinema"]) + "\n")
         outfile.write("structure: " + str(item["structure"]) + "\n")
         outfile.write("vibe: " + item["vibe"] + "\n")
+        if "subhead" in item:
+            outfile.write("subhead: " + item["subhead"] + "\n")
         outfile.write("---\n")
