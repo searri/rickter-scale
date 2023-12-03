@@ -4,7 +4,7 @@ date: 2023-11-12
 img: past-lives.jpg
 alt: Past Lives movie poster
 thumbnail-img: past-lives-small.png
-rewatch: 3
+rewatch: 2
 characters: 5
 super: 1
 pace: 5
