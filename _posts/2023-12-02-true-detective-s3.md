@@ -12,6 +12,6 @@ super: 2
 pace: 4
 cinema: 3
 structure: 5
-vibe: That last dog scene REALLY hit 🥲
+vibe: That one scene in the last episode with the dog REALLY hit 🥲
 subhead: Season 3
 ---
