@@ -1,4 +1,8 @@
-import os, json, datetime
+import os, json, datetime, shutil
+
+# Clear markdown folder
+shutil.rmtree("_posts")
+os.mkdir("_posts")
 
 movies = []
 for f in os.listdir("movie-jsons"):

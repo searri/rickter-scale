@@ -21,7 +21,7 @@
             {% endfor %}
             
             {% if has_title_img %}
-            <img src="{{ site.url }}/{{ site.baseurl }}/img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
+            <img src="{{ site.url }}{{ site.baseurl }}/img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
               style="background-color:black; width: 35em;">
             {% else %}
             <span style="font-size: 3em; color: white;">{{ post.title }}</span>
@@ -66,6 +66,9 @@
               </li>
               <li>Infrastructure:
                 <strong>{{ post.structure }}</strong>
+              </li>
+              <li>Vibe check:
+                <i style="font-weight: lighter;">{{ post.vibe }}</i>
               </li>
             </ul>
 

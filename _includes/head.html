@@ -8,18 +8,18 @@
   {% if site.meta_author %}
   <meta name="author" content="{{ site.meta_author }}">{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/{{ site.baseurl }}/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
 
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-  <link rel="stylesheet" href="{{ site.url }}/{{ site.baseurl }}/style.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/style.css">
 
   <!-- Custom Fonts -->
-  <link rel="stylesheet" href="{{ site.url }}/{{ site.baseurl }}/css/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/font-awesome/css/all.min.css">
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
   <!-- Favicon -->
-  <link rel="icon" href="{{ site.url }}/{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" type="image/x-icon">
 
 </head>
