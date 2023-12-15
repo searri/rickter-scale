@@ -19,4 +19,5 @@ jobs:
             python build_movies.py
             git add -A
             git commit -m "Automatic movie rebuild"
+            git push
           fi
