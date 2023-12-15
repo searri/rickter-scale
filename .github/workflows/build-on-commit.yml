@@ -1,8 +1,13 @@
+name: "Rebuild movie pages"
+
 on:
   push:
     branches: [ main ]
     paths:
       - 'movie-jsons/*'
+
+permissions:
+  contents: write
 
 jobs:
   run-python:
