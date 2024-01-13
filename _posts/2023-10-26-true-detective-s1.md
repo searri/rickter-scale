@@ -1,8 +1,8 @@
 ---
 layout: default
 alt: 'True Detective S1 stylized movie heading'
-img: true-detective-s1.jpg
-thumbnail-img: true-detective-s1-small.png
+thumbnail-img: https://image.tmdb.org/t/p/original/6q4KzOcM2eEE1IbhFTadUsQkphl.png
+img: https://image.tmdb.org/t/p/original/ymaqpwLRaDwQIWII0lgqflTb10G.jpg
 date: 2023-10-26
 title: 'True Detective S1'
 old: false

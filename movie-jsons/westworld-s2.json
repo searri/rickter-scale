@@ -1,1 +1,8 @@
-{"title": "Westworld S2", "subhead": "Season 2", "old_rating": "good", "time_category": "old"}
+{
+    "title": "Westworld S2",
+    "subhead": "Season 2",
+    "old_rating": "good",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/418NJcFFqyg5lg5CdIMnQmJMjLl.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/6aj09UTMQNyfSfk0ZX8rYOEsXL2.jpg"
+}

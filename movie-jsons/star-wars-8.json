@@ -1,1 +1,7 @@
-{"title": "Star Wars: The Last Jedi", "old_rating": "bad", "time_category": "semirecent"}
+{
+    "title": "Star Wars: The Last Jedi",
+    "old_rating": "bad",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/jHeAwG9UVusLmI0jaVv4YFKnjAv.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg"
+}

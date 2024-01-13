@@ -1,1 +1,7 @@
-{"title": "The Lego Movie", "old_rating": "good", "time_category": "old"}
+{
+    "title": "The Lego Movie",
+    "old_rating": "good",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg"
+}

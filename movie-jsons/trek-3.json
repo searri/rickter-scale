@@ -1,1 +1,7 @@
-{"title": "Star Trek III: The Search for Spock", "old_rating": "bad", "time_category": "semirecent"}
+{
+    "title": "Star Trek III: The Search for Spock",
+    "old_rating": "bad",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/k3lI3f4X4H4wdrhUzPwQ2Fn67e5.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/MCc3Kg0yOVUUE2oEmBjeFykFib.jpg"
+}

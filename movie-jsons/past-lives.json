@@ -1,11 +1,13 @@
 {
     "rewatch": 2,
     "characters": 5,
-    "super": 1,
+    "super": 0,
     "pace": 5,
     "cinema": 5,
     "structure": 3,
     "vibe": "Sad but serenely content",
     "watched": "2023-11-12",
-    "title": "Past Lives"
+    "title": "Past Lives",
+    "small_thumb": "https://image.tmdb.org/t/p/original/jzdqCuDygikoTJfYdRRTJp0xYsd.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg"
 }

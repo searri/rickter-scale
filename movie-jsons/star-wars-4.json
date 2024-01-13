@@ -1,1 +1,7 @@
-{"title": "Star Wars: A New Hope", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Star Wars: A New Hope",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/vswPivs3yuUsk5aW6DbnyeNQ4GX.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+}

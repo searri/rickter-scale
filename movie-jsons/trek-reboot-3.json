@@ -1,1 +1,7 @@
-{"title": "Star Trek: Beyond", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Star Trek: Beyond",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/nCsO4ugUR8sURIaMDICvOH0Anzh.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/cnQp8GmOWahIgQaH60Kwez3TNzw.jpg"
+}

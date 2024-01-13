@@ -20,7 +20,9 @@
               {% endif %}
             {% endfor %}
             
-            {% if has_title_img %}
+            {% if post.thumbnail-img contains "https://image.tmdb.org" %}
+            <img src="{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}" style="background-color:black; width: 35em;">
+            {% elsif has_title_img %}
             <img src="{{ site.url }}{{ site.baseurl }}/img/{{ post.thumbnail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"
               style="background-color:black; width: 35em;">
             {% else %}

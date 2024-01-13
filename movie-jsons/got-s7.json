@@ -1,1 +1,8 @@
-{"title": "Game of Thrones S7", "subhead": "Season 7", "old_rating": "fine", "time_category": "old"}
+{
+    "title": "Game of Thrones S7",
+    "subhead": "Season 7",
+    "old_rating": "fine",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/zTGSKzZktsPqzvd75KvByK5G54A.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/ijKEdinAQUfYNQTKfrhGnSdm5HQ.jpg"
+}

@@ -1,1 +1,7 @@
-{"title": "Scream", "old_rating": "good", "time_category": "recent"}
+{
+    "title": "Scream",
+    "old_rating": "good",
+    "time_category": "recent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/9jCsLVdl5xo2TxhQCFzYuezrQYB.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg"
+}

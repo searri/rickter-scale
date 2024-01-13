@@ -1,1 +1,7 @@
-{"title": "Scream 3", "old_rating": "bad", "time_category": "recent"}
+{
+    "title": "Scream 3",
+    "old_rating": "bad",
+    "time_category": "recent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/wkqfrcS97zJ7frm8oeBngTqXGO3.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/P1XOPpPnWQbnzMvd66fQuRPUO5.jpg"
+}

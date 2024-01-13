@@ -1,1 +1,7 @@
-{"title": "Star Wars: Revenge of the Sith", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Star Wars: Revenge of the Sith",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/uqVHXsqPzsLyq1M4xfsglaZSN7l.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
+}

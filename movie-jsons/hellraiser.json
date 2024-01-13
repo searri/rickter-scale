@@ -1,1 +1,7 @@
-{"title": "Hellraiser", "old_rating": "fine", "time_category": "semirecent"}
+{
+    "title": "Hellraiser",
+    "old_rating": "fine",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/e9FFV4RR1QdGwAFusaYLMXk2n4z.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg"
+}

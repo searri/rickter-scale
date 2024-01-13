@@ -1,1 +1,8 @@
-{"title": "The Blacklist", "subhead": "Seasons 1-8", "old_rating": "fine", "time_category": "semirecent"}
+{
+    "title": "The Blacklist",
+    "subhead": "Seasons 1-8",
+    "old_rating": "fine",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/fFrZSoC2ZN2YQVjfaJMuTF75bot.jpg"
+}

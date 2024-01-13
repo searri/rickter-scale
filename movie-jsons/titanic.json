@@ -1,11 +1,13 @@
 {
     "rewatch": 3,
     "characters": 4,
-    "super": 2,
+    "super": 1,
     "pace": 3,
     "cinema": 3,
     "structure": 4,
     "vibe": "This movie had such goofy vibes until suddenly it REALLY didn't",
     "watched": "2023-12-14",
-    "title": "Titanic"
+    "title": "Titanic",
+    "small_thumb": "https://image.tmdb.org/t/p/original/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
 }

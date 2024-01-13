@@ -1,1 +1,7 @@
-{"title": "The Babadook", "old_rating": "good", "time_category": "old"}
+{
+    "title": "The Babadook",
+    "old_rating": "good",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/pcoaliEYkMhpYgjGbjsvmPBTru4.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/thP3cC2aF8jDVySXq0nsXTvvAfW.jpg"
+}

@@ -1,11 +1,13 @@
 {
     "rewatch": 5,
     "characters": 4,
-    "super": 2,
+    "super": 0,
     "pace": 5,
     "cinema": 4,
     "structure": 5,
     "vibe": "Flabberghasted, floored, befuddled, bamboozled",
     "watched": "2023-11-20",
-    "title": "Perfect Blue"
+    "title": "Perfect Blue",
+    "small_thumb": "https://image.tmdb.org/t/p/original/mGMG6m7iBCFuLssuHXaBAKZlu88.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/bee6ZQVaSAUhlBinsP9In8x8vO1.jpg"
 }

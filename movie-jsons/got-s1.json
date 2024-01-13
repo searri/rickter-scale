@@ -1,1 +1,8 @@
-{"title": "Game of Thrones S1", "subhead": "Season 1", "old_rating": "good", "time_category": "old"}
+{
+    "title": "Game of Thrones S1",
+    "subhead": "Season 1",
+    "old_rating": "good",
+    "time_category": "old",
+    "large_thumb": "https://image.tmdb.org/t/p/original/mMHYHIiC9I2ghn12Fnr4ImvWWss.jpg",
+    "small_thumb": "https://image.tmdb.org/t/p/original/zTGSKzZktsPqzvd75KvByK5G54A.png"
+}

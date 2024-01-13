@@ -1,11 +1,13 @@
 {
-  "rewatch": 4,
-  "super": 3,
+  "rewatch": 3,
+  "super": 2,
   "structure": 4,
   "characters": 4,
   "pace": 5,
   "cinema": 3,
   "vibe": "Still cackling",
   "watched": "2023-12-10",
-  "title": "Hot Fuzz"
+  "title": "Hot Fuzz",
+  "small_thumb": "https://image.tmdb.org/t/p/original/79uWCGmEn9no2Qmw62KUhi4v2AZ.png",
+  "large_thumb": "https://image.tmdb.org/t/p/original/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg"
 }

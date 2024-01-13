@@ -1,8 +1,8 @@
 ---
 layout: default
 alt: 'Over the Garden Wall stylized movie heading'
-img: garden-wall.jpg
-thumbnail-img: garden-wall-small.png
+thumbnail-img: https://image.tmdb.org/t/p/original/1lJs1tHUPZhKZ5qmeCSFc3n2A19.png
+img: https://image.tmdb.org/t/p/original/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg
 date: 2023-12-04
 title: 'Over the Garden Wall'
 old: false

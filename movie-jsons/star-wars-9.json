@@ -1,1 +1,7 @@
-{"title": "Star Wars: Rise of Skywalker", "old_rating": "bad", "time_category": "semirecent"}
+{
+    "title": "Star Wars: Rise of Skywalker",
+    "old_rating": "bad",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/dAGM9E544U47ebGy5boLPdxWCYc.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+}

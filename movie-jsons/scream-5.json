@@ -1,11 +1,13 @@
 {
     "rewatch": 0,
     "characters": 2,
-    "super": 4,
+    "super": 3,
     "pace": 3,
     "cinema": 4,
     "structure": 3,
     "vibe": "Still hyped from when they panned out and revealed the original Scream house",
     "watched": "2023-11-24",
-    "title": "Scream 5"
+    "title": "Scream 5",
+    "small_thumb": "https://image.tmdb.org/t/p/original/dwNR4rTlF8HKarT1ca7CKuVf7rc.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/971Kqs1q4nuSc9arn1QAuKYbfxy.jpg"
 }

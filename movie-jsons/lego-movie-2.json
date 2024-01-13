@@ -1,1 +1,7 @@
-{"title": "The Lego Movie 2", "old_rating": "fine", "time_category": "old"}
+{
+    "title": "The Lego Movie 2",
+    "old_rating": "fine",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/oVtzvWiS4DHaQuMeeXpXQDLaK6r.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
+}

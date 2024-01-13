@@ -1,1 +1,7 @@
-{"title": "Back to the Future", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Back to the Future",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+}

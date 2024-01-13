@@ -1,1 +1,7 @@
-{"title": "Solo: A Star Wars Story", "old_rating": "bad", "time_category": "semirecent"}
+{
+    "title": "Solo: A Star Wars Story",
+    "old_rating": "bad",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/qdrsTIMwIMtIP8Y3T2Ge6DTx1fg.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg"
+}

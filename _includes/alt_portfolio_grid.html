@@ -17,7 +17,11 @@
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
+          {% if post.img contains "https://image.tmdb.org" %}
+          <img src="{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          {% else %}
           <img src="{{ site.url }}{{ site.baseurl }}/img/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          {% endif %}
         </a>
       </div>
       {% endfor %}

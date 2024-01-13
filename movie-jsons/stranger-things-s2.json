@@ -1,1 +1,8 @@
-{"title": "Stranger Things S2", "subhead": "Season 2", "old_rating": "fine", "time_category": "old"}
+{
+    "title": "Stranger Things S2",
+    "subhead": "Season 2",
+    "old_rating": "fine",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/gysDiYJuvAmIgawZuXzH63TzynP.jpg"
+}

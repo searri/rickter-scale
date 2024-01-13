@@ -1,1 +1,7 @@
-{"title": "Jurassic Park", "old_rating": "good", "time_category": "youth"}
+{
+    "title": "Jurassic Park",
+    "old_rating": "good",
+    "time_category": "youth",
+    "small_thumb": "https://image.tmdb.org/t/p/original/7mk6WxEiJq5rd2m69nKptREhgu8.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+}

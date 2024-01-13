@@ -1,1 +1,7 @@
-{"title": "Star Wars: The Force Awakens", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Star Wars: The Force Awakens",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/vzyPrwtjKDM60A0FM9zKKJ2M266.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg"
+}

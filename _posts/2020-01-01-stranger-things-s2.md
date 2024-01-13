@@ -1,8 +1,8 @@
 ---
 layout: default
 alt: 'Stranger Things S2 stylized movie heading'
-img: stranger-things-s2.jpg
-thumbnail-img: stranger-things-s2-small.png
+thumbnail-img: https://image.tmdb.org/t/p/original/uyVM5qGksUzCgwo6UU0UrHex8Oj.png
+img: https://image.tmdb.org/t/p/original/gysDiYJuvAmIgawZuXzH63TzynP.jpg
 date: 2020-01-01
 title: 'Stranger Things S2'
 old: true

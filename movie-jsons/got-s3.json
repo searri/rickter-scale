@@ -1,1 +1,8 @@
-{"title": "Game of Thrones S3", "subhead": "Season 3", "old_rating": "good", "time_category": "old"}
+{
+    "title": "Game of Thrones S3",
+    "subhead": "Season 3",
+    "old_rating": "good",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/zTGSKzZktsPqzvd75KvByK5G54A.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/vMZTQGA1nhmtchKEdW1p2ko1yN0.jpg"
+}

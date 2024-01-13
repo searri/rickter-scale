@@ -1,14 +1,14 @@
 ---
 layout: default
 alt: 'True Detective S3 stylized movie heading'
-img: true-detective-s3.jpg
-thumbnail-img: true-detective-s3-small.png
+thumbnail-img: https://image.tmdb.org/t/p/original/6q4KzOcM2eEE1IbhFTadUsQkphl.png
+img: https://image.tmdb.org/t/p/original/aowr4xpLP5sRCL50TkuADomJ98T.jpg
 date: 2023-12-02
 title: 'True Detective S3'
 old: false
 rewatch: 3
 characters: 4
-super: 2
+super: 1
 pace: 4
 cinema: 3
 structure: 5

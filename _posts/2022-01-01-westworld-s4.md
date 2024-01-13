@@ -1,8 +1,8 @@
 ---
 layout: default
 alt: 'Westworld S4 stylized movie heading'
-img: westworld-s4.jpg
-thumbnail-img: westworld-s4-small.png
+thumbnail-img: https://image.tmdb.org/t/p/original/418NJcFFqyg5lg5CdIMnQmJMjLl.png
+img: https://image.tmdb.org/t/p/original/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg
 date: 2022-01-01
 title: 'Westworld S4'
 old: true

@@ -1,1 +1,7 @@
-{"title": "Get Out", "old_rating": "good", "time_category": "old"}
+{
+    "title": "Get Out",
+    "old_rating": "good",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/dJ3LNGrU9Mav7xkpcQb8N53ggWY.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+}

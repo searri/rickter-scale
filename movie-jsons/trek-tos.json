@@ -1,1 +1,7 @@
-{"title": "Star Trek: TOS", "old_rating": "good", "time_category": "youth"}
+{
+    "title": "Star Trek: TOS",
+    "old_rating": "good",
+    "time_category": "youth",
+    "small_thumb": "https://image.tmdb.org/t/p/original/4FNMPoBLs8wFFMr2ydrgi1pY6HT.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/6yC45hiN27yY1FndvUohbimHM3J.jpg"
+}

@@ -1,1 +1,8 @@
-{"title": "Game of Thrones S8", "subhead": "Season 8", "old_rating": "bad", "time_category": "old"}
+{
+    "title": "Game of Thrones S8",
+    "subhead": "Season 8",
+    "old_rating": "bad",
+    "time_category": "old",
+    "small_thumb": "https://image.tmdb.org/t/p/original/zTGSKzZktsPqzvd75KvByK5G54A.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/37sTgAG9QardbdzCq51FoUw1Ijb.jpg"
+}

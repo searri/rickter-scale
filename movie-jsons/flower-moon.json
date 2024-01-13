@@ -1,11 +1,13 @@
 {
     "rewatch": 3,
     "characters": 4,
-    "super": 2,
+    "super": 0,
     "pace": 5,
     "cinema": 4,
     "structure": 5,
     "vibe": "Wow, that was edited unlike anything I've ever seen",
     "watched": "2023-11-17",
-    "title": "Killers of the Flower Moon"
+    "title": "Killers of the Flower Moon",
+    "small_thumb": "https://image.tmdb.org/t/p/original/t0MpJBr0oS5Yc1eXHiL05T5UDIT.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
 }

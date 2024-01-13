@@ -1,1 +1,7 @@
-{"title": "Star Trek IV: The Voyage Home", "old_rating": "good", "time_category": "youth"}
+{
+    "title": "Star Trek IV: The Voyage Home",
+    "old_rating": "good",
+    "time_category": "youth",
+    "small_thumb": "https://image.tmdb.org/t/p/original/hwqYHcn3XH2Yea7WW2ncvb57joN.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/9bjUUgrdmUzed0rP1FYT0ycfXue.jpg"
+}

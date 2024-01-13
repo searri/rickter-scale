@@ -36,8 +36,14 @@ for i, item in enumerate(movies_sorted):
     with open("_posts/" + item["watched"] + "-" + item["short_title"] + ".md", "w") as outfile:
         outfile.write("---\nlayout: default\n")
         outfile.write("alt: '" + item["title"] + " stylized movie heading'\n")
-        outfile.write("img: " + item["short_title"] + ".jpg\n")
-        outfile.write("thumbnail-img: " + item["short_title"] + "-small.png\n")
+        if "small_thumb" in item:
+            outfile.write("thumbnail-img: " + item["small_thumb"] + "\n")
+        else:
+            outfile.write("thumbnail-img: " + item["short_title"] + "-small.png\n")
+        if "large_thumb" in item:
+            outfile.write("img: " + item["large_thumb"] + "\n")
+        else:
+            outfile.write("img: " + item["short_title"] + ".jpg\n")
         outfile.write("date: " + item["watched"] + "\n")
         outfile.write("title: '" + item["title"] + "'\n")
 

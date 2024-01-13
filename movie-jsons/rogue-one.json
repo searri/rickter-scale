@@ -1,1 +1,7 @@
-{"title": "Rogue One: A Star Wars Story", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Rogue One: A Star Wars Story",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/4GMGj1DlV4kP7YJwBrrD7vFV6Mz.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg"
+}

@@ -1,8 +1,8 @@
 ---
 layout: default
 alt: 'Kingpin Katie stylized movie heading'
-img: kingpin-katie.jpg
 thumbnail-img: kingpin-katie-small.png
+img: kingpin-katie.jpg
 date: 2022-01-01
 title: 'Kingpin Katie'
 old: true

@@ -1,1 +1,7 @@
-{"title": "The Truman Show", "old_rating": "good", "time_category": "recent"}
+{
+    "title": "The Truman Show",
+    "old_rating": "good",
+    "time_category": "recent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/dD0oQGYGTm4oJqte5eCuRtjQtV7.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+}

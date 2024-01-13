@@ -1,1 +1,8 @@
-{"title": "Stranger Things S4", "subhead": "Season 4", "old_rating": "good", "time_category": "semirecent"}
+{
+    "title": "Stranger Things S4",
+    "subhead": "Season 4",
+    "old_rating": "good",
+    "time_category": "semirecent",
+    "small_thumb": "https://image.tmdb.org/t/p/original/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "large_thumb": "https://image.tmdb.org/t/p/original/97kRxryosPhmATVJcG2FjCewaS9.jpg"
+}
