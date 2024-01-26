@@ -1,16 +1,11 @@
 name: "Rebuild movie pages"
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - 'movie-jsons/*'
-
-permissions:
-  contents: write
+  repository_dispatch:
+    types: [create-pull-request]
 
 jobs:
-  run-python:
+  createPullRequest:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,8 +16,17 @@ jobs:
         run: |
           COMMIT_MESSAGE_PHRASE="NEW MOVIE:"
           if [[ $GITHUB_SHA =~ ^"$COMMIT_MESSAGE_PHRASE" ]]; then
-            python build_movies.py
-            git add -A
-            git commit -m "Automatic movie rebuild"
-            git push
+            python3 build_movies.py
           fi
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: Add report file
+          committer: searri <searri@users.noreply.github.com>
+          body: |
+            Auto-generated PR to add new movie
+
+          title: '[Automatic] New movie'
+          assignees: searri
+          reviewers: searri
+          branch: new-movies
