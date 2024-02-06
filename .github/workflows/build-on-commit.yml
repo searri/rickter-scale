@@ -9,10 +9,6 @@ jobs:
     if: startsWith(github.event.head_commit.message, 'NEW MOVIE')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Create new branch
-        run: git checkout -b movie-data-update
-
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
         with:
