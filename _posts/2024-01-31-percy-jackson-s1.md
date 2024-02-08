@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'Percy Jackson and the Olympians stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/iYxjFCbqSJyDDmAytShRw2n5ZgF.png
 img: https://image.tmdb.org/t/p/original/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg
 date: 2024-01-31
 title: 'Percy Jackson and the Olympians'
+alt: 'Percy Jackson and the Olympians stylized movie heading'
 old: false
 rewatch: 2
 characters: 3

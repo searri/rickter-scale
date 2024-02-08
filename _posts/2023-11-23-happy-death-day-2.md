@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'Happy Death Day 2U stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/dtqJELZgrvRb4dGI1yvz3KB4a1q.png
 img: https://image.tmdb.org/t/p/original/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg
 date: 2023-11-23
 title: 'Happy Death Day 2U'
+alt: 'Happy Death Day 2U stylized movie heading'
 old: false
 rewatch: 0
 characters: 2

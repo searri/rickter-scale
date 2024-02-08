@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'The Zone of Interest stylized movie heading'
 thumbnail-img: zone-of-interest-small.png
 img: https://image.tmdb.org/t/p/original/AbFtI353N2Pggl5TxfsI2VtpUt8.jpg
 date: 2024-02-03
 title: 'The Zone of Interest'
+alt: 'The Zone of Interest stylized movie heading'
 old: false
 rewatch: 1
 characters: 4

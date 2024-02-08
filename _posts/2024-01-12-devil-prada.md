@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'The Devil Wears Prada stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/kVDJZnaK7VC3HuKITFv0xSiUC8b.png
 img: https://image.tmdb.org/t/p/original/8912AsVuS7Sj915apArUFbv6F9L.jpg
 date: 2024-01-12
 title: 'The Devil Wears Prada'
+alt: 'The Devil Wears Prada stylized movie heading'
 old: false
 rewatch: 3
 characters: 3

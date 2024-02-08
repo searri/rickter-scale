@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'Leila's Brothers stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/jP9lnYtqJauaLo86FFgh9BOSaJ5.png
 img: https://image.tmdb.org/t/p/original/onQUSikPNXVvoT3wCLzHgiOPrHT.jpg
 date: 2024-01-21
-title: 'Leila's Brothers'
+title: "Leila's Brothers"
+alt: "Leila's Brothers stylized movie heading"
 old: false
 rewatch: 2
 characters: 4

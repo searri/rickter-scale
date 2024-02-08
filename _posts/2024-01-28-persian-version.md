@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'The Persian Version stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/4P0IXTch0au4AGECriN3NQS0sgJ.png
 img: https://image.tmdb.org/t/p/original/1nzBlZtebWJXY8ap0ibkgb3eMUr.jpg
 date: 2024-01-28
 title: 'The Persian Version'
+alt: 'The Persian Version stylized movie heading'
 old: false
 rewatch: 2
 characters: 4

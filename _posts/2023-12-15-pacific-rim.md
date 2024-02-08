@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'Pacific Rim stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/vEJKowxLkU1DpGXfhRRNkzbVGix.png
 img: https://image.tmdb.org/t/p/original/mB1xObLmv2Rbq7CSTVUOI5SbB1n.jpg
 date: 2023-12-15
 title: 'Pacific Rim'
+alt: 'Pacific Rim stylized movie heading'
 old: false
 rewatch: 2
 characters: 2

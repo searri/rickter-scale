@@ -1,10 +1,10 @@
 ---
 layout: default
-alt: 'Star Trek: Beyond stylized movie heading'
 thumbnail-img: https://image.tmdb.org/t/p/original/nCsO4ugUR8sURIaMDICvOH0Anzh.png
 img: https://image.tmdb.org/t/p/original/cnQp8GmOWahIgQaH60Kwez3TNzw.jpg
 date: 2024-01-09
 title: 'Star Trek: Beyond'
+alt: 'Star Trek: Beyond stylized movie heading'
 old: false
 rewatch: 3
 characters: 4
