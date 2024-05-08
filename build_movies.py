@@ -7,7 +7,11 @@ os.mkdir("_posts")
 movies = []
 for f in os.listdir("movie-jsons"):
     with open("movie-jsons/" + f, "r") as infile:
-        this_movie = json.load(infile)
+        try:
+            this_movie = json.load(infile)
+        except json.JSONDecodeError:
+            print(f)
+            exit(1)
 
     # Filename without ".json"
     this_movie["short_title"] = f[:-5]
