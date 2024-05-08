@@ -1,7 +1,13 @@
 {
     "title": "Star Wars: The Phantom Menace",
-    "old_rating": "fine",
-    "time_category": "semirecent",
     "small_thumb": "https://image.tmdb.org/t/p/original/ng7NyKidNO3tpngil1jW6DNMPVx.png",
     "large_thumb": "https://image.tmdb.org/t/p/original/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
+    "rewatch": 1,
+    "characters": 3,
+    "super": 3,
+    "pace": 2,
+    "cinema": 3,
+    "structure": 3,
+    "vibe": "At least Duel of the Fates was really cool",
+    "watched": "2024-05-03"
 }
