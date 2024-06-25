@@ -1,7 +1,13 @@
 {
     "title": "Jurassic World",
-    "old_rating": "fine",
-    "time_category": "old",
     "small_thumb": "https://image.tmdb.org/t/p/original/8TsSMAK89DiOOg3vP9baQEt1DNi.png",
     "large_thumb": "https://image.tmdb.org/t/p/original/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+    "rewatch": 1,
+    "characters": 2,
+    "super": 3,
+    "pace": 3,
+    "cinema": 4,
+    "structure": 3,
+    "vibe": "Pretty mid movie, but man the dinosaur fight scene at the end was cool",
+    "watched": "2024-06-23",
 }
