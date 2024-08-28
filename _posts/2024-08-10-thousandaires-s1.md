@@ -12,6 +12,6 @@ super: 0
 pace: 4
 cinema: 3
 structure: 4
-vibe: 'This is a fun show' -Grant
+vibe: This is a fun show -Grant
 subhead: Season 1
 ---
