@@ -1,7 +1,13 @@
 {
-    "title": "Speed Racer (2008)",
-    "old_rating": "good",
-    "time_category": "recent",
-    "small_thumb": "https://image.tmdb.org/t/p/original/txKyKlIcIJ81LLsnibX7MDqJgIB.png",
-    "large_thumb": "https://image.tmdb.org/t/p/original/fxRIpx9Op9h71q3tvuabx4GryyP.jpg"
+  "title": "Speed Racer (2008)",
+  "small_thumb": "https://image.tmdb.org/t/p/original/txKyKlIcIJ81LLsnibX7MDqJgIB.png",
+  "large_thumb": "https://image.tmdb.org/t/p/original/fxRIpx9Op9h71q3tvuabx4GryyP.jpg"
+  "rewatch": 5,
+  "characters": 3,
+  "super": 5,
+  "pace": 5,
+  "cinema": 5,
+  "structure": 5,
+  "vibe": "This is the true heart of racing, boy. This is my religion.",
+  "watched": "2024-08-28"
 }
